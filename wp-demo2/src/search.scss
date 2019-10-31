@@ -1,0 +1,14 @@
+$body-color: red;
+
+body {
+  color: $body-color;
+  display: flex;
+}
+p {     
+  transform: scale(1);     
+  animation: ani 1s linear; 
+}
+
+div {
+  display: flex;
+}
